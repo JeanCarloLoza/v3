@@ -1,0 +1,16 @@
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\ContarDías\bin\Debug\ContarDías.exe.config
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\ContarDías\bin\Debug\ContarDías.exe
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\ContarDías\bin\Debug\ContarDías.pdb
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\ContarDías\obj\Debug\ContarDías.csprojAssemblyReference.cache
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\ContarDías\obj\Debug\ContarDías.csproj.CoreCompileInputs.cache
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\ContarDías\obj\Debug\ContarDías.exe
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\ContarDías\obj\Debug\ContarDías.pdb
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\bin\Debug\ContarDías.exe.config
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\bin\Debug\ContarDías.exe
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\bin\Debug\ContarDías.pdb
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\obj\Debug\ContarDías.csprojAssemblyReference.cache
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\obj\Debug\ContarDías.csproj.CoreCompileInputs.cache
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\obj\Debug\ContarDías.exe
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\obj\Debug\ContarDías.pdb
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\bin\Debug\Newtonsoft.Json.dll
+C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\obj\Debug\ContarDías.csproj.CopyComplete
