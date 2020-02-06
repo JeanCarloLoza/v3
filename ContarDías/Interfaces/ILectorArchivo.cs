@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ContarDías
 {
-    interface ILectorArchivo
+    public interface iLectorArchivo
     {
         string[] LeerArchivo();
     }

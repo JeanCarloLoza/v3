@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace ContarDías
 {
-    class Program
+    public class Program
     {
         DateTime dtHoy = DateTime.Now;
 
@@ -15,18 +15,15 @@ namespace ContarDías
         /// <param name="args">los argumentos que se envian al iniciar las clases</param>
         static void Main(string[] args)
         {
-            string cRutaArchivo = @"C:\Trabajo\Cursos\Buenas practicas\dias.txt";//TODO: leer la ruta de manera dinamica
-            string[] arrInfo;
-            string cRespusta;
+            string cRutaArchivo = @"C:\Trabajo\Cursos\SOLID\dias.txt";//TODO: leer la ruta de manera dinamica
             DateTime dtHoy = DateTime.Now;
             
-            ILectorArchivo lector = new LectorArchivoTxt(cRutaArchivo);
+            iLectorArchivo lector = new LectorArchivoTxt(cRutaArchivo);
             IProcesadorEventos procesador = new ProcesadorEventos(dtHoy);
             IMostrarMensajes mensajes = new MostrarMensajes();
 
-            arrInfo = lector.LeerArchivo();
-            cRespusta = procesador.Procesar(arrInfo);
-            mensajes.mostrarEnConsola(cRespusta);
+            EjecutadorPrograma ejecutador = new EjecutadorPrograma(lector, procesador, mensajes);
+            ejecutador.EjecutarPrograma();
         }
         
     }

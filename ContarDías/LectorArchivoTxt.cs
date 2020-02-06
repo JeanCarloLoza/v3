@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ContarDías
 {
-    class LectorArchivoTxt : ILectorArchivo
+    public class LectorArchivoTxt : iLectorArchivo
     {
         string cRuta;
 

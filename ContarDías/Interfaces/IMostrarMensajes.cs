@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ContarDías
 {
-    interface IMostrarMensajes
+    public interface IMostrarMensajes
     {
         void mostrarEnConsola(string cRespusta);
     }

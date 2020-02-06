@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\IntervalosTiempo.cs" />
+    <Compile Include="EjecutadorPrograma.cs" />
     <Compile Include="Interfaces\IMostrarMensajes.cs" />
     <Compile Include="Interfaces\IValidadorDatos.cs" />
     <Compile Include="ProcesadorEventos.cs" />

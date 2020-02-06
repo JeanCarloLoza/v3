@@ -1,15 +1,11 @@
-﻿using System;
+﻿using ContarDías.Clases;
+using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ContarDías.Clases;
-using Newtonsoft.Json;
 
 namespace ContarDías
 {
-    class ProcesadorEventos : IProcesadorEventos
+    public class ProcesadorEventos : IProcesadorEventos
     {
         DateTime dtHoy;
 
@@ -61,18 +57,23 @@ namespace ContarDías
                 }
             }
             #endregion
-
-            #region definicion de mensaje
-            if (dtHoy < dtFecha)
-            {
-                iCantidad = Math.Abs(iCantidad);
-                cRespuesta = string.Format("ocurrirá dentro de {0} {1}", iCantidad, cUnidad);
-            }
-            else
-                cRespuesta = string.Format("ocurrio hace {0} {1}", iCantidad, cUnidad);
-            #endregion
+            
+            cRespuesta = formatearMensaje(dtFecha, iCantidad, cUnidad);
 
             return cRespuesta;
+        }
+        public string formatearMensaje(DateTime _dtFecha,decimal _iCantidad, string _cUnidad)
+        {
+            string cRespuesta = "";
+            if (dtHoy < _dtFecha)
+            {
+                _iCantidad = Math.Abs(_iCantidad);
+                cRespuesta = string.Format("ocurrirá dentro de {0} {1}", _iCantidad, _cUnidad);
+            }
+            else
+                cRespuesta = string.Format("ocurrio hace {0} {1}", _iCantidad, _cUnidad);
+            return cRespuesta;
+
         }
 
         public List<IntervalosTiempo> ObtenerListaIntervalos() {

@@ -14,3 +14,12 @@ C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\obj\Debug\
 C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\obj\Debug\ContarDías.pdb
 C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\bin\Debug\Newtonsoft.Json.dll
 C:\Trabajo\Cursos\Buenas practicas\ContarDías\contarDias\ContarDías\obj\Debug\ContarDías.csproj.CopyComplete
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDías\bin\Debug\ContarDías.exe.config
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDías\bin\Debug\ContarDías.exe
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDías\bin\Debug\ContarDías.pdb
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDías\bin\Debug\Newtonsoft.Json.dll
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDías\obj\Debug\ContarDías.csprojAssemblyReference.cache
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDías\obj\Debug\ContarDías.csproj.CoreCompileInputs.cache
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDías\obj\Debug\ContarDías.csproj.CopyComplete
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDías\obj\Debug\ContarDías.exe
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDías\obj\Debug\ContarDías.pdb

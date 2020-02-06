@@ -1,0 +1,11 @@
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\bin\Debug\netcoreapp2.1\ContarDíasUTest.deps.json
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\bin\Debug\netcoreapp2.1\ContarDíasUTest.runtimeconfig.json
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\bin\Debug\netcoreapp2.1\ContarDíasUTest.runtimeconfig.dev.json
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\bin\Debug\netcoreapp2.1\ContarDíasUTest.dll
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\obj\Debug\netcoreapp2.1\ContarDíasUTest.csprojAssemblyReference.cache
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\obj\Debug\netcoreapp2.1\ContarDíasUTest.csproj.CoreCompileInputs.cache
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\obj\Debug\netcoreapp2.1\ContarDíasUTest.AssemblyInfoInputs.cache
+C:\Trabajo\Cursos\SOLID\ContarDías\V3\ContarDíasUTest\obj\Debug\netcoreapp2.1\ContarDíasUTest.AssemblyInfo.cs

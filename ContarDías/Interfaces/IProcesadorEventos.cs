@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ContarDías
 {
-    interface IProcesadorEventos
+    public interface IProcesadorEventos
     {
         string Procesar(string[] arrInfo);
     }
